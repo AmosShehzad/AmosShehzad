@@ -128,16 +128,6 @@
 
 ---
 
-<!-- ======================= SNAKE ======================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmosShehzad/AmosShehzad/output/snake.svg"/>
-</p>
-
----
-
 <!-- ======================= FUN ======================= -->
 
 ## ⚡ Fun Fact
