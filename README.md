@@ -5,12 +5,12 @@
 </h1>
 
 <h3 align="center">
-  🚀 BS Data Science Student | AI Engineer in Progress | PUCIT
+  🚀 BS Data Science Student | AI & Analytics Enthusiast | PUCIT
 </h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+in+Progress;Machine+Learning+Enthusiast;Power+BI+Developer;AI+%26+Data+Analytics+Lover&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Machine+Learning+Enthusiast;AI+%26+Data+Analytics+Lover&center=true&width=500&height=45">
 </p>
 
 ---
