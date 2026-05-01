@@ -38,11 +38,11 @@
 <img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-black?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Text%20Processing%20%26%20Analysis-9cf?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Excel-Business%20Analytics-green?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-AI%20Applications-purple?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -75,15 +75,6 @@
 ---
 
 <!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmosShehzad&show_icons=true&theme=dracula&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosShehzad&layout=compact&theme=dracula"/>
-</p>
-
----
 
 <!-- ======================= PROJECT CARDS ======================= -->
 
