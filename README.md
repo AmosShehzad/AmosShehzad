@@ -33,15 +33,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Pandas-Advanced-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-Advanced-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-Exploring-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis%20%26%20ML-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-Data%20Querying%20%26%20Modeling-orange?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-black?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-Business%20Analytics-green?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-AI%20Applications-purple?style=for-the-badge"/>
 
 </p>
 
