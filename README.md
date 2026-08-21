@@ -1,5 +1,7 @@
 <!-- ============================================================ -->
+
 <!--                          HEADER                              -->
+
 <!-- ============================================================ -->
 
 <h1 align="center">Hi, I'm Amos Shehzad 👋</h1>
@@ -29,28 +31,32 @@
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                        ABOUT ME                              -->
+
 <!-- ============================================================ -->
 
 ## 🧠 About Me
 
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" alt="coding gif"/>
 
-- 🎓 **BS Data Science** &mdash; University of the Punjab, Lahore
-- 🤖 **AI Engineer** focused on **ML, Deep Learning, NLP, Computer Vision, GenAI &amp; Agentic AI**
-- 🏗️ I ship **production-oriented AI &amp; backend systems** end-to-end
-- 🧠 Hands-on with **RAG, LLM apps, AI agents, multi-agent systems &amp; structured outputs**
-- ⚙️ Backend expertise in **FastAPI, Django &amp; Django REST Framework**
-- 🏆 **Runner-Up &mdash; PUCON'25 Data Analytics Hackathon**
-- 👨‍🏫 **Teaching Assistant** &mdash; *Introduction to Data Science* &amp; *Computer Networks*
-- ✉️ Reach me at **amos.shehzad@gmail.com**
+* 🎓 **BS Data Science** — University of the Punjab, Lahore
+* 🤖 **AI Engineer** focused on **ML, Deep Learning, NLP, Computer Vision, GenAI & Agentic AI**
+* 🏗️ I ship **production-oriented AI & backend systems** end-to-end
+* 🧠 Hands-on with **RAG, LLM apps, AI agents, multi-agent systems & structured outputs**
+* ⚙️ Backend expertise in **FastAPI, Django & Django REST Framework**
+* 🏆 **Runner-Up — PUCON'25 Data Analytics Hackathon**
+* 👨‍🏫 **Teaching Assistant** — *Introduction to Data Science* & *Computer Networks*
+* ✉️ Reach me at **[amos.shehzad@gmail.com](mailto:amos.shehzad@gmail.com)**
 
 <br clear="right"/>
 
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                       CORE FOCUS                             -->
+
 <!-- ============================================================ -->
 
 ## 🎯 Core Focus
@@ -70,12 +76,14 @@
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                       TECH STACK                             -->
+
 <!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages &amp; Data
+### 💻 Languages & Data
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>&nbsp;&nbsp;
@@ -101,7 +109,7 @@
 
 <p align="center"><sub>LLMs · Prompt Engineering · RAG · AI Agents · Multi-Agent Systems · Structured Outputs · Sentence Transformers · Vector Search · Checkpointing · Observability</sub></p>
 
-### ⚙️ Backend &amp; APIs
+### ⚙️ Backend & APIs
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -115,7 +123,7 @@
 
 <p align="center"><sub>FastAPI · Django · DRF · REST APIs · Pydantic · Django Channels · JWT Auth · Swagger / OpenAPI</sub></p>
 
-### 🗄️ Databases, DevOps &amp; Cloud
+### 🗄️ Databases, DevOps & Cloud
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>&nbsp;&nbsp;
@@ -134,42 +142,49 @@
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                       EXPERIENCE                             -->
+
 <!-- ============================================================ -->
 
 ## 💼 Experience
 
-### 🐍 Python Backend Developer &mdash; *Catholic Bible Commission Pakistan*
+### 🐍 Python Backend Developer — *Catholic Bible Commission Pakistan*
+
 <sub>**Stack:** Django REST Framework · React.js · PostgreSQL · Supabase · Cloudflare R2</sub>
 
-- Designed and shipped a full-stack platform with **Django REST Framework, React.js &amp; Supabase PostgreSQL**.
-- Delivered **30+ API endpoints across 10 modules**, fully documented with **OpenAPI / Swagger**.
-- Implemented secure registration across **7+ dioceses** with identity hashing and scoped rate limiting.
-- Integrated **Brevo SMTP notifications** and **GCP service-account sync with Google Sheets**.
-- Configured **Cloudflare R2 media storage**, file-upload validation, CORS/CSRF hardening and role-based permissions.
+* Designed and shipped a full-stack platform with **Django REST Framework, React.js & Supabase PostgreSQL**.
+* Delivered **30+ API endpoints across 10 modules**, fully documented with **OpenAPI / Swagger**.
+* Implemented secure registration across **7+ dioceses** with identity hashing and scoped rate limiting.
+* Integrated **Brevo SMTP notifications** and **GCP service-account sync with Google Sheets**.
+* Configured **Cloudflare R2 media storage**, file-upload validation, CORS/CSRF hardening and role-based permissions.
 
-### 👨‍🏫 Teaching Assistant &mdash; *University of the Punjab*
+### 👨‍🏫 Teaching Assistant — *University of the Punjab*
+
 <sub>*Introduction to Data Science · Computer Networks*</sub>
 
-- Mentored students in **Python, data wrangling, and ML fundamentals**.
-- Ran lab exercises, assignment reviews, and office hours to strengthen practical understanding.
-- Supported teaching of **core computer networking concepts** and lab work.
+* Mentored students in **Python, data wrangling, and ML fundamentals**.
+* Ran lab exercises, assignment reviews, and office hours to strengthen practical understanding.
+* Supported teaching of **core computer networking concepts** and lab work.
 
-### 📊 Data Analytics Intern &mdash; *KPMG Australia (Virtual)*
+### 📊 Data Analytics Intern — *KPMG Australia (Virtual)*
 
-- Completed a full analytics lifecycle: **exploration, cleaning, preprocessing, analysis, visualization &amp; insight generation**.
-- Used **Python, Pandas &amp; NumPy** to surface trends, anomalies and business insights.
-- Delivered stakeholder-ready dashboards using **Matplotlib, Seaborn &amp; Advanced Excel**.
+* Completed a full analytics lifecycle: **exploration, cleaning, preprocessing, analysis, visualization & insight generation**.
+* Used **Python, Pandas & NumPy** to surface trends, anomalies and business insights.
+* Delivered stakeholder-ready dashboards using **Matplotlib, Seaborn & Advanced Excel**.
 
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                    FEATURED PROJECTS                         -->
+
 <!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Retail Intelligence Assistant
+
 <sub>*Full-Stack AI / ML Platform*</sub>
 
 <p>
@@ -181,16 +196,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-- End-to-end **retail analytics platform** pairing BI dashboards with an AI assistant.
-- **RAG-based natural-language querying** over live store data.
-- Provider-agnostic LLM layer (**Groq + Ollama**) with **FAISS** retrieval.
-- **Latency: 60–180s → &lt;1s** via configuration-based provider switching.
-- **28-endpoint FastAPI** backend with Pydantic validation and SQLite constraints.
-- **LangSmith observability** &amp; Docker-based deployment on Render.
+* End-to-end **retail analytics platform** pairing BI dashboards with an AI assistant.
+* **RAG-based natural-language querying** over live store data.
+* Provider-agnostic LLM layer (**Groq + Ollama**) with **FAISS** retrieval.
+* **Latency: 60–180s → <1s** via configuration-based provider switching.
+* **28-endpoint FastAPI** backend with Pydantic validation and SQLite constraints.
+* **LangSmith observability** & Docker-based deployment on Render.
 
 ---
 
 ### 🧠 AutoInsight AI
+
 <sub>*Multi-Agent Data Analytics Platform*</sub>
 
 <p>
@@ -200,17 +216,18 @@
   <img src="https://img.shields.io/badge/Automated%20Reports-C62828?style=flat-square"/>
 </p>
 
-- Turns CSV/Excel datasets into **executive-ready PDF reports** via **LangGraph**.
-- Orchestrates **4 specialized LLM agents** for analysis &amp; report generation.
-- **Self-correcting reflection loop** with conditional routing and revision safeguards.
-- **LangSmith tracing**, SQLite checkpointing, and structured outputs.
-- Background processing, job-status polling, schema validation &amp; data-quality guardrails.
-- Automated chart validation improves reliability of generated reports.
+* Turns CSV/Excel datasets into **executive-ready PDF reports** via **LangGraph**.
+* Orchestrates **4 specialized LLM agents** for analysis & report generation.
+* **Self-correcting reflection loop** with conditional routing and revision safeguards.
+* **LangSmith tracing**, SQLite checkpointing, and structured outputs.
+* Background processing, job-status polling, schema validation & data-quality guardrails.
+* Automated chart validation improves reliability of generated reports.
 
 ---
 
 ### 🌐 NetDesk
-<sub>*AI-Powered ISP Support &amp; Operations Platform*</sub>
+
+<sub>*AI-Powered ISP Support & Operations Platform*</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -221,55 +238,44 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-- Full-stack ISP helpdesk built on **Django REST + React + FastAPI/LangGraph AI microservice**.
-- Agentic workflow for **ticket classification, investigation &amp; resolution**.
-- Conditional routing across **billing, outage &amp; diagnostic tools**.
-- **FAISS + Sentence Transformers RAG** with confidence-based human escalation.
-- Real-time messaging via **Django Channels, Daphne &amp; JWT-authenticated WebSockets**.
-- Role-based dashboards, SLA urgency triage, internal notes &amp; automated ticket assignment.
-- Containerized with Docker; deployed on **Render + Vercel**.
+* Full-stack ISP helpdesk built on **Django REST + React + FastAPI/LangGraph AI microservice**.
+* Agentic workflow for **ticket classification, investigation & resolution**.
+* Conditional routing across **billing, outage & diagnostic tools**.
+* **FAISS + Sentence Transformers RAG** with confidence-based human escalation.
+* Real-time messaging via **Django Channels, Daphne & JWT-authenticated WebSockets**.
+* Role-based dashboards, SLA urgency triage, internal notes & automated ticket assignment.
+* Containerized with Docker; deployed on **Render + Vercel**.
 
 <hr/>
 
 <!-- ============================================================ -->
-<!--                    GITHUB STATS                              -->
-<!-- ============================================================ -->
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmosShehzad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmosShehzad&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosShehzad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<hr/>
-
-<!-- ============================================================ -->
 <!--                    ACHIEVEMENTS                              -->
+
 <!-- ============================================================ -->
 
-## 🏆 Achievements &amp; Certifications
+## 🏆 Achievements & Certifications
 
 **Achievements**
-- 🥈 Runner-Up &mdash; **PUCON'25 Data Analytics Hackathon**
-- 👨‍🏫 Teaching Assistant &mdash; **Introduction to Data Science**
-- 👨‍🏫 Teaching Assistant &mdash; **Computer Networks**
-- 💼 **KPMG Australia** Data Analytics Virtual Internship
+
+* 🥈 Runner-Up — **PUCON'25 Data Analytics Hackathon**
+* 👨‍🏫 Teaching Assistant — **Introduction to Data Science**
+* 👨‍🏫 Teaching Assistant — **Computer Networks**
+* 💼 **KPMG Australia** Data Analytics Virtual Internship
 
 **Certifications**
-- 📘 Advanced Learning Algorithms &mdash; *DeepLearning.AI*
-- 📘 Supervised Machine Learning: Regression &amp; Classification &mdash; *DeepLearning.AI*
-- 📗 Data Analytics with Python &mdash; *IBM*
-- 📗 Data Analytics &mdash; *Fluxxion*
+
+* 📘 Advanced Learning Algorithms — *DeepLearning.AI*
+* 📘 Supervised Machine Learning: Regression & Classification — *DeepLearning.AI*
+* 📗 Data Analytics with Python — *IBM*
+* 📗 Data Analytics — *Fluxxion*
 
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                    WHAT I BUILD                              -->
+
 <!-- ============================================================ -->
 
 ## 🧩 What I Build
@@ -299,7 +305,9 @@
 <hr/>
 
 <!-- ============================================================ -->
+
 <!--                    CONNECT                                   -->
+
 <!-- ============================================================ -->
 
 ## 🌐 Let's Connect
@@ -318,8 +326,4 @@
 
 <p align="center">
   <i>💡 I don't just analyze data — I build intelligent systems that turn data into decisions.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmosShehzad&label=Profile%20views&color=6C63FF&style=flat" alt="profile views"/>
 </p>
