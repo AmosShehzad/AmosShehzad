@@ -1,272 +1,325 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ============================================================ -->
+<!--                          HEADER                              -->
+<!-- ============================================================ -->
 
-<h1 align="center">
-  Hi 👋, I'm Amos Shehzad
-</h1>
+<h1 align="center">Hi, I'm Amos Shehzad 👋</h1>
 
-<h3 align="center">
-  🚀 AI Engineer | ML · DL · NLP · CV · GenAI · Agentic AI
-</h3>
+<h3 align="center">AI Engineer &nbsp;•&nbsp; ML · DL · NLP · CV &nbsp;•&nbsp; GenAI &amp; Agentic AI</h3>
+
+<p align="center">
+  Building production-grade AI systems — LLM applications, RAG pipelines, and multi-agent workflows — backed by robust Python APIs.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amos-shehzad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amos%20Shehzad-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AmosShehzad">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:amos.shehzad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-amos.shehzad%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Computer+Vision;Generative+AI+%7C+Agentic+AI;Backend+%26+AI+Systems&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%7C+ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+CV;Generative+AI+%26+Agentic+AI+Systems;RAG+%C2%B7+LangChain+%C2%B7+LangGraph;FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
----
+<hr/>
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif"/>
+<!-- ============================================================ -->
+<!--                        ABOUT ME                              -->
+<!-- ============================================================ -->
 
 ## 🧠 About Me
 
-* 🎓 **BS Data Science** student at the **University of the Punjab, Lahore**
-* 🤖 AI Engineer focused on **Machine Learning, Deep Learning, NLP, Computer Vision, GenAI & Agentic AI**
-* 🏗️ Build **production-oriented AI and backend systems**
-* 🧠 Experienced with **RAG, LLM applications, AI agents, multi-agent systems & structured outputs**
-* ⚙️ Strong backend experience with **FastAPI, Django & Django REST Framework**
-* 🔍 Interested in **AI automation, intelligent analytics & real-world AI products**
-* 🏆 **Runner-Up — PUCON'25 Data Analytics Hackathon**
-* 👨‍🏫 Teaching Assistant for **Introduction to Data Science & Computer Networks**
+<img align="right" height="170" src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" alt="coding gif"/>
 
----
+- 🎓 **BS Data Science** &mdash; University of the Punjab, Lahore
+- 🤖 **AI Engineer** focused on **ML, Deep Learning, NLP, Computer Vision, GenAI &amp; Agentic AI**
+- 🏗️ I ship **production-oriented AI &amp; backend systems** end-to-end
+- 🧠 Hands-on with **RAG, LLM apps, AI agents, multi-agent systems &amp; structured outputs**
+- ⚙️ Backend expertise in **FastAPI, Django &amp; Django REST Framework**
+- 🏆 **Runner-Up &mdash; PUCON'25 Data Analytics Hackathon**
+- 👨‍🏫 **Teaching Assistant** &mdash; *Introduction to Data Science* &amp; *Computer Networks*
+- ✉️ Reach me at **amos.shehzad@gmail.com**
 
-## 🚀 AI & Machine Learning
+<br clear="right"/>
+
+<hr/>
+
+<!-- ============================================================ -->
+<!--                       CORE FOCUS                             -->
+<!-- ============================================================ -->
+
+## 🎯 Core Focus
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Text%20Intelligence-9cf?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-CV-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-AI%20Agents-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-LangGraph-black?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-C62828?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Intelligence-0277BD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Image%20Understanding-1565C0?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-AI%20Agents-EF6C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-F9A825?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-LangGraph-212121?style=for-the-badge"/>
 </p>
 
----
+<hr/>
+
+<!-- ============================================================ -->
+<!--                       TECH STACK                             -->
+<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Data
+### 💻 Languages &amp; Data
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42" alt="Matplotlib"/>
 </p>
 
-**Python · SQL · Pandas · NumPy · Matplotlib · Seaborn · Excel**
+<p align="center"><sub><b>Python</b> · <b>SQL</b> · Pandas · NumPy · Matplotlib · Seaborn · Advanced Excel</sub></p>
 
-### 🤖 AI / GenAI / Agentic AI
+### 🤖 GenAI · LLMs · Agentic AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-AI%20Applications-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20Workflows-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangSmith-Observability-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Groq-LLM%20Inference-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-**LLMs · Generative AI · RAG · Prompt Engineering · LangChain · LangGraph · AI Agents · Multi-Agent Systems · Structured Outputs · Sentence Transformers · FAISS · Vector Search · Checkpointing · LangSmith**
+<p align="center"><sub>LLMs · Prompt Engineering · RAG · AI Agents · Multi-Agent Systems · Structured Outputs · Sentence Transformers · Vector Search · Checkpointing · Observability</sub></p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend &amp; APIs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Django-Web%20Framework-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/DRF-REST%20APIs-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-Realtime-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 </p>
 
-**FastAPI · Django · Django REST Framework · REST APIs · Pydantic · WebSockets · Django Channels · JWT Authentication · OpenAPI / Swagger**
+<p align="center"><sub>FastAPI · Django · DRF · REST APIs · Pydantic · Django Channels · JWT Auth · Swagger / OpenAPI</sub></p>
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases, DevOps &amp; Cloud
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
 </p>
 
-**PostgreSQL · Supabase · SQLite · Cloudflare R2 · Docker · Git · GitHub · Vercel · Render · GCP Service Accounts**
+<p align="center"><sub>PostgreSQL · Supabase · SQLite · Cloudflare R2 · Docker · Git · GitHub · Vercel · Render · GCP Service Accounts</sub></p>
 
-### 🔐 Engineering
+### 🔐 Engineering Practices
 
-**RBAC · Rate Limiting · CORS / CSRF Security · File Validation · Background Processing · API Design · Data Quality Guardrails · AI Observability**
+<p align="center"><sub>RBAC · Rate Limiting · CORS / CSRF Hardening · File Validation · Background Processing · API Design · Data-Quality Guardrails · AI Observability</sub></p>
 
----
+<hr/>
+
+<!-- ============================================================ -->
+<!--                       EXPERIENCE                             -->
+<!-- ============================================================ -->
 
 ## 💼 Experience
 
-### 🐍 Python Backend Developer — Catholic Bible Commission Pakistan
+### 🐍 Python Backend Developer &mdash; *Catholic Bible Commission Pakistan*
+<sub>**Stack:** Django REST Framework · React.js · PostgreSQL · Supabase · Cloudflare R2</sub>
 
-**Django REST Framework · React.js · PostgreSQL · Supabase · Cloudflare R2**
+- Designed and shipped a full-stack platform with **Django REST Framework, React.js &amp; Supabase PostgreSQL**.
+- Delivered **30+ API endpoints across 10 modules**, fully documented with **OpenAPI / Swagger**.
+- Implemented secure registration across **7+ dioceses** with identity hashing and scoped rate limiting.
+- Integrated **Brevo SMTP notifications** and **GCP service-account sync with Google Sheets**.
+- Configured **Cloudflare R2 media storage**, file-upload validation, CORS/CSRF hardening and role-based permissions.
 
-* Built and deployed a full-stack platform using **Django REST Framework, React.js and Supabase PostgreSQL**.
-* Delivered **30+ API endpoints across 10 modules**.
-* Implemented secure registration across **7+ dioceses** with identity hashing and scoped rate limiting.
-* Integrated **Brevo SMTP notifications** and **GCP service-account synchronization with Google Sheets**.
-* Implemented **Cloudflare R2 media storage**, file-upload validation, CORS/CSRF hardening and role-based permissions.
-* Designed and documented APIs using **OpenAPI / Swagger**.
+### 👨‍🏫 Teaching Assistant &mdash; *University of the Punjab*
+<sub>*Introduction to Data Science · Computer Networks*</sub>
 
-### 👨‍🏫 Teaching Assistant — University of the Punjab
+- Mentored students in **Python, data wrangling, and ML fundamentals**.
+- Ran lab exercises, assignment reviews, and office hours to strengthen practical understanding.
+- Supported teaching of **core computer networking concepts** and lab work.
 
-**Introduction to Data Science · Computer Networks**
+### 📊 Data Analytics Intern &mdash; *KPMG Australia (Virtual)*
 
-* Supported students with **Python, data wrangling, data science and machine learning fundamentals**.
-* Assisted with laboratory exercises, assignments and technical problem solving.
-* Conducted office hours and provided feedback to improve students' practical understanding.
-* Supported teaching of core **computer networking concepts and laboratory work**.
+- Completed a full analytics lifecycle: **exploration, cleaning, preprocessing, analysis, visualization &amp; insight generation**.
+- Used **Python, Pandas &amp; NumPy** to surface trends, anomalies and business insights.
+- Delivered stakeholder-ready dashboards using **Matplotlib, Seaborn &amp; Advanced Excel**.
 
-### 📊 Data Analytics Intern — KPMG Australia
+<hr/>
 
-**Virtual Internship Program**
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                         -->
+<!-- ============================================================ -->
 
-* Completed an end-to-end analytics lifecycle covering **exploration, cleaning, preprocessing, analysis, visualization and insight generation**.
-* Used **Python, Pandas and NumPy** to identify trends, patterns, anomalies and actionable business insights.
-* Created stakeholder-ready visualizations and dashboards using **Matplotlib, Seaborn and Advanced Excel**.
+## 🚀 Featured Projects
 
----
+### 🤖 AI Retail Intelligence Assistant
+<sub>*Full-Stack AI / ML Platform*</sub>
 
-# 📌 Featured AI Projects
-
-## 🤖 AI Retail Intelligence Assistant
-
-**Full-Stack AI/ML Platform**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-RAG-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Groq%20%7C%20Ollama-LLMs-black?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-* Built an end-to-end **retail analytics platform** combining BI dashboards with an AI assistant.
-* Implemented **RAG-based natural-language querying** over live store data.
-* Engineered **FAISS retrieval** and a provider-agnostic LLM layer using **Groq and Ollama**.
-* Reduced inference latency from **60–180 seconds to under 1 second** through configuration-based provider switching.
-* Developed a **28-endpoint FastAPI backend** with Pydantic validation and SQLite constraints.
-* Added **LangSmith observability** and Docker-based deployment on Render.
+- End-to-end **retail analytics platform** pairing BI dashboards with an AI assistant.
+- **RAG-based natural-language querying** over live store data.
+- Provider-agnostic LLM layer (**Groq + Ollama**) with **FAISS** retrieval.
+- **Latency: 60–180s → &lt;1s** via configuration-based provider switching.
+- **28-endpoint FastAPI** backend with Pydantic validation and SQLite constraints.
+- **LangSmith observability** &amp; Docker-based deployment on Render.
 
 ---
 
-## 🧠 AutoInsight AI
+### 🧠 AutoInsight AI
+<sub>*Multi-Agent Data Analytics Platform*</sub>
 
-**Multi-Agent Data Analytics Platform**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangSmith-Tracing-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Analytics-Automation-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reports-Automated-red?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangSmith-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automated%20Reports-C62828?style=flat-square"/>
 </p>
 
-* Built a **multi-agent analytics platform** using LangGraph to transform CSV/Excel datasets into executive-ready PDF reports.
-* Orchestrated **4 specialized LLM agents** for automated data analysis and report generation.
-* Implemented a **self-correcting reflection loop** with conditional routing and revision safeguards.
-* Added **LangSmith tracing**, SQLite checkpointing and structured outputs.
-* Implemented **background processing, job-status polling, schema validation and data-quality guardrails**.
-* Added automated chart validation to improve reliability of generated analytical reports.
+- Turns CSV/Excel datasets into **executive-ready PDF reports** via **LangGraph**.
+- Orchestrates **4 specialized LLM agents** for analysis &amp; report generation.
+- **Self-correcting reflection loop** with conditional routing and revision safeguards.
+- **LangSmith tracing**, SQLite checkpointing, and structured outputs.
+- Background processing, job-status polling, schema validation &amp; data-quality guardrails.
+- Automated chart validation improves reliability of generated reports.
 
 ---
 
-## 🌐 NetDesk
+### 🌐 NetDesk
+<sub>*AI-Powered ISP Support &amp; Operations Platform*</sub>
 
-**AI-Powered ISP Support & Operations Platform**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django%20REST-Backend-092E20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-Microservice-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FAISS-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-Realtime-blue?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WebSockets-4353FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-* Built a full-stack ISP helpdesk using **Django REST, React and a FastAPI + LangGraph AI microservice**.
-* Developed an agentic AI workflow for **ticket classification, investigation and resolution**.
-* Implemented conditional routing across **billing, outage and diagnostic tools**.
-* Added **FAISS + Sentence Transformers RAG** with confidence-based human escalation.
-* Implemented real-time messaging using **Django Channels, Daphne and JWT-authenticated WebSockets**.
-* Delivered **role-based dashboards, SLA urgency triage, internal notes and automated ticket assignment**.
-* Containerized services with Docker and deployed the platform using **Render and Vercel**.
+- Full-stack ISP helpdesk built on **Django REST + React + FastAPI/LangGraph AI microservice**.
+- Agentic workflow for **ticket classification, investigation &amp; resolution**.
+- Conditional routing across **billing, outage &amp; diagnostic tools**.
+- **FAISS + Sentence Transformers RAG** with confidence-based human escalation.
+- Real-time messaging via **Django Channels, Daphne &amp; JWT-authenticated WebSockets**.
+- Role-based dashboards, SLA urgency triage, internal notes &amp; automated ticket assignment.
+- Containerized with Docker; deployed on **Render + Vercel**.
 
----
+<hr/>
 
-## 🏆 Achievements
+<!-- ============================================================ -->
+<!--                    GITHUB STATS                              -->
+<!-- ============================================================ -->
 
-* 🥈 **Runner-Up — PUCON'25 Data Analytics Hackathon**
-* 👨‍🏫 **Teaching Assistant — Introduction to Data Science**
-* 👨‍🏫 **Teaching Assistant — Computer Networks**
-* 💼 **KPMG Australia Data Analytics Virtual Internship**
+## 📈 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmosShehzad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmosShehzad&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 📜 Certifications
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosShehzad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-* **Advanced Learning Algorithms** — DeepLearning.AI
-* **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI
-* **Data Analytics** — Fluxxion
-* **Data Analytics with Python** — IBM
+<hr/>
 
----
+<!-- ============================================================ -->
+<!--                    ACHIEVEMENTS                              -->
+<!-- ============================================================ -->
 
-## 📊 What I Build
+## 🏆 Achievements &amp; Certifications
+
+**Achievements**
+- 🥈 Runner-Up &mdash; **PUCON'25 Data Analytics Hackathon**
+- 👨‍🏫 Teaching Assistant &mdash; **Introduction to Data Science**
+- 👨‍🏫 Teaching Assistant &mdash; **Computer Networks**
+- 💼 **KPMG Australia** Data Analytics Virtual Internship
+
+**Certifications**
+- 📘 Advanced Learning Algorithms &mdash; *DeepLearning.AI*
+- 📘 Supervised Machine Learning: Regression &amp; Classification &mdash; *DeepLearning.AI*
+- 📗 Data Analytics with Python &mdash; *IBM*
+- 📗 Data Analytics &mdash; *Fluxxion*
+
+<hr/>
+
+<!-- ============================================================ -->
+<!--                    WHAT I BUILD                              -->
+<!-- ============================================================ -->
+
+## 🧩 What I Build
 
 ```text
-AI Applications
-      ↓
-LLMs + RAG + Agents
-      ↓
-LangChain + LangGraph
-      ↓
-FastAPI / Django APIs
-      ↓
-PostgreSQL / Vector Search
-      ↓
-Docker + Cloud Deployment
-      ↓
-Production-Ready AI Systems
+   ┌─────────────────────────────────────────────────┐
+   │              AI-Powered Applications             │
+   └─────────────────────────────────────────────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+      LLMs            RAG           AI Agents
+        │               │               │
+        └──────► LangChain / LangGraph ◄┘
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+       FastAPI / Django    PostgreSQL / FAISS
+              │                   │
+              └────────┬──────────┘
+                       ▼
+             Docker  +  Cloud Deploy
+                       ▼
+            Production-Ready AI Systems 🚀
 ```
 
----
+<hr/>
 
-## 🌐 Connect With Me
+<!-- ============================================================ -->
+<!--                    CONNECT                                   -->
+<!-- ============================================================ -->
+
+## 🌐 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/amos-shehzad/">
-  <img src="https://img.shields.io/badge/LinkedIn-Amos%20Shehzad-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/AmosShehzad">
-  <img src="https://img.shields.io/badge/GitHub-AmosShehzad-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:amos.shehzad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-amos.shehzad%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/amos-shehzad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amos%20Shehzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AmosShehzad">
+    <img src="https://img.shields.io/badge/GitHub-AmosShehzad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:amos.shehzad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amos.shehzad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <i>💡 I don't just analyze data — I build intelligent systems that turn data into decisions.</i>
+</p>
 
-## ⚡ Fun Fact
-
-> I don't just analyze data — I build intelligent systems that turn data into decisions. 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmosShehzad&label=Profile%20views&color=6C63FF&style=flat" alt="profile views"/>
+</p>
