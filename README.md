@@ -38,7 +38,12 @@
 
 ## 🧠 About Me
 
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" alt="coding gif"/>
+<img
+align="right"
+height="170"
+src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/ai.gif"
+alt="AI coding animation"
+/>
 
 * 🎓 **BS Data Science** — University of the Punjab, Lahore
 * 🤖 **AI Engineer** focused on **ML, Deep Learning, NLP, Computer Vision, GenAI & Agentic AI**
@@ -50,8 +55,6 @@
 * ✉️ Reach me at **[amos.shehzad@gmail.com](mailto:amos.shehzad@gmail.com)**
 
 <br clear="right"/>
-
-<hr/>
 
 <!-- ============================================================ -->
 
